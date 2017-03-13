@@ -1,0 +1,13 @@
+{
+  "name"          : "tanksjs",
+  "version"       : "0.0.1",
+  "main"          : "gulpfile.js",
+  "description"   : "tanksjs",
+  "author"        : "Crihalix",
+  "license"       : "Crihalix License",
+
+  "devDependencies" : {
+    "gulp"              : "^3.8.5"
+  }
+
+}
